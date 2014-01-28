@@ -1,7 +1,5 @@
 soft-engineer
 =============
-
-This is a repository for soft engineer class exercise
 4: RUBY CALISTHENICS
 First off, please download the Code skeleton required for this homework
 The goal of this multi-part assignment is to get you accustomed to basic Ruby coding and introduce you to RSpec, the unit testing tool we will be using heavily.
